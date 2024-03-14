@@ -4,23 +4,23 @@
       "id": 1,
       "sex": 1,
       "purebred": 0,
-      "pet_age": 1,
-      "size": 2,
+      "pet_age": 2,
+      "size": 1,
       "country": 1,
       "city": 1,
       "act_quickly": 0,
-      "hair_length": null,
+      "hair_length": 0,
       "species": 1,
-      "pet_name": "Petey",
+      "pet_name": "Mugsy",
       "color": null,
       "age": 5,
       "special_needs": 0,
-      "primary_breed": "Pit Bull Terrier",
+      "primary_breed": "French Bulldog",
       "last_modified": "2019-04-08T07:27:07",
-      "thumbnail": "https://pet-uploads-staging.adoptapet.com/7/8/b/401275544.jpg",
+      "thumbnail": "https://pet-uploads.adoptapet.com/0/9/2/627425674.jpg",
       "images": [
-        "https://pet-uploads-staging.adoptapet.com/7/8/b/401275544.jpg",
-        "https://pet-uploads-staging.adoptapet.com/2/b/7/401275542.jpg"
+        "https://pet-uploads.adoptapet.com/4/f/5/627425679.jpg",
+        "https://pet-uploads.adoptapet.com/9/3/7/627425685.jpg"
       ]
     },
     {
@@ -31,13 +31,13 @@
       "country": 1,
       "city": 2,
       "act_quickly": 0,
-      "hair_length": null,
+      "hair_length": 0,
       "species": 2,
       "pet_name": "Chip",
       "color": null,
       "age": null,
       "special_needs": 0,
-      "primary_breed": "",
+      "primary_breed": "Pit Bull Terrier Mix",
       "last_modified": "2019-04-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/1/a/f/1108459654.jpg",
       "images": [
@@ -54,7 +54,7 @@
       "country": 1,
       "city": 4,
       "act_quickly": 0,
-      "hair_length": null,
+      "hair_length": 0,
       "species": 2,
       "pet_name": "Zha Zha",
       "color": null,
@@ -79,7 +79,7 @@
       "country": 2,
       "city": 2,
       "act_quickly": 0,
-      "hair_length": null,
+      "hair_length": 1,
       "species": 2,
       "pet_name": "Icarus",
       "color": null,
@@ -104,7 +104,7 @@
       "country": 1,
       "city": 1,
       "act_quickly": 0,
-      "hair_length": null,
+      "hair_length": 0,
       "species": 2,
       "pet_name": "Cap aka Captain America",
       "color": null,
@@ -129,7 +129,7 @@
       "country": 1,
       "city": 1,
       "act_quickly": 1,
-      "hair_length": null,
+      "hair_length": 1,
       "species": 1,
       "pet_name": "Billy Ocean",
       "color": null,
@@ -153,7 +153,7 @@
       "country": 1,
       "city": 4,
       "act_quickly": 0,
-      "hair_length": null,
+      "hair_length": 0,
       "species": 1,
       "pet_name": "Silverwing",
       "color": null,
@@ -178,7 +178,7 @@
       "country": 2,
       "city": 2,
       "act_quickly": 0,
-      "hair_length": null,
+      "hair_length": 0,
       "species": 1,
       "pet_name": "Nebraska",
       "color": null,
@@ -203,7 +203,7 @@
       "country": 2,
       "city": 2,
       "act_quickly": 0,
-      "hair_length": null,
+      "hair_length": 0,
       "species": 1,
       "pet_name": "Alexandra",
       "color": null,
@@ -228,7 +228,7 @@
       "country": 1,
       "city": 1,
       "act_quickly": 0,
-      "hair_length": null,
+      "hair_length": 0,
       "species": 1,
       "pet_name": "Dulce",
       "color": null,
@@ -253,7 +253,7 @@
       "country": 1,
       "city": 2,
       "act_quickly": 0,
-      "hair_length": null,
+      "hair_length": 0,
       "species": 3,
       "pet_name": "Irene&George",
       "color": null,
@@ -276,7 +276,7 @@
       "country": 1,
       "city": 3,
       "act_quickly": 0,
-      "hair_length": null,
+      "hair_length": 0,
       "species": 3,
       "pet_name": "Midge",
       "color": null,
@@ -305,7 +305,7 @@
       "name": "Bird"
     }
   ],
-  "pet-age": [
+  "pet_age": [
     {
       "id": 1,
       "name": "Puppy"
@@ -399,4 +399,5 @@
       "name": "Bordeaux"
     }
   ]
+
 }
