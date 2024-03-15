@@ -2,349 +2,231 @@
   "pets": [
     {
       "id": 1,
-      "sex": 1,
-      "purebred": 0,
-      "pet_age": 2,
-      "size": 1,
+      "sex": "Male",
+      "purebred": "No",
+      "pet_age": "Adult",
+      "size": "Small",
       "country": 1,
       "city": 1,
-      "act_quickly": 0,
-      "hair_length": 0,
-      "species": 1,
+      "act_quickly": "No",
+      "hair_length": "Short",
+      "species": "Dog",
       "pet_name": "Mugsy",
       "color": null,
       "age": 5,
-      "special_needs": 0,
+      "special_needs": "No",
       "primary_breed": "French Bulldog",
       "last_modified": "2019-04-08T07:27:07",
-      "thumbnail": "https://pet-uploads.adoptapet.com/0/9/2/627425674.jpg",
-      "images": [
-        "https://pet-uploads.adoptapet.com/4/f/5/627425679.jpg",
-        "https://pet-uploads.adoptapet.com/9/3/7/627425685.jpg"
-      ]
+      "thumbnail": "https://pet-uploads.adoptapet.com/0/9/2/627425674.jpg"
     },
     {
-      "sex": 2,
-      "purebred": 0,
-      "pet_age": 1,
-      "size": 1,
+      "sex": "Female",
+      "purebred": "No",
+      "pet_age": "Puppy",
+      "size": "Small",
       "country": 1,
       "city": 2,
-      "act_quickly": 0,
-      "hair_length": 0,
-      "species": 2,
+      "act_quickly": "No",
+      "hair_length": "Short",
+      "species": "Dog",
       "pet_name": "Chip",
       "color": null,
       "age": null,
-      "special_needs": 0,
+      "special_needs": "No",
       "primary_breed": "Pit Bull Terrier Mix",
       "last_modified": "2019-04-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/1/a/f/1108459654.jpg",
-      "images": [
-        "https://pet-uploads.adoptapet.com/e/c/3/1108459659.jpg",
-        "https://pet-uploads.adoptapet.com/4/3/2/1108459673.jpg"
-      ],
       "id": 2
     },
     {
-      "sex": 2,
-      "purebred": 0,
-      "pet_age": 3,
-      "size": 3,
+      "sex": "Female",
+      "purebred": "No",
+      "pet_age": "Adult",
+      "size": "Large",
       "country": 1,
       "city": 4,
-      "act_quickly": 0,
-      "hair_length": 0,
-      "species": 2,
+      "act_quickly": "No",
+      "hair_length": "Short",
+      "species": "Dog",
       "pet_name": "Zha Zha",
       "color": null,
       "age": null,
-      "special_needs": 0,
+      "special_needs": "No",
       "primary_breed": "American Staffordshire Terrier",
       "last_modified": "2024-03-08T07:27:07",
-      "thumbnail": "https://pet-uploads.adoptapet.com/7/1/0/738392362.jpg",
-      "images": [
-        "https://pet-uploads.adoptapet.com/e/e/5/738392368.jpg",
-        "https://pet-uploads.adoptapet.com/8/6/7/738392374.jpg",
-        "https://pet-uploads.adoptapet.com/6/3/5/738392380.jpg",
-        "https://pet-uploads.adoptapet.com/7/1/0/738392362.jpg"
-      ],
+      "thumbnail": "https://pet-uploads.adoptapet.com/8/6/7/738392374.jpg",
       "id": 3
     },
     {
-      "sex": 1,
-      "purebred": 0,
-      "pet_age": 2,
-      "size": 3,
+      "sex": "Male",
+      "purebred": "Yes",
+      "pet_age": "Young",
+      "size": "Large",
       "country": 2,
       "city": 2,
-      "act_quickly": 0,
-      "hair_length": 1,
-      "species": 2,
+      "act_quickly": "No",
+      "hair_length": "Long",
+      "species": "Dog",
       "pet_name": "Icarus",
       "color": null,
       "age": null,
-      "special_needs": 0,
+      "special_needs": "No",
       "primary_breed": "German Shepherd",
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/3/6/2/907033725.jpg",
-      "images": [
-        "https://pet-uploads.adoptapet.com/3/6/2/907033725.jpg",
-        "https://pet-uploads.adoptapet.com/e/8/2/837663717.jpg",
-        "https://pet-uploads.adoptapet.com/b/d/8/907034551.jpg",
-        "https://pet-uploads.adoptapet.com/b/2/e/907035353.jpg"
-      ],
       "id": 4
     },
     {
-      "sex": 1,
-      "purebred": 0,
-      "pet_age": 3,
-      "size": 3,
+      "sex": "Male",
+      "purebred": "No",
+      "pet_age": "Adult",
+      "size": "Large",
       "country": 1,
       "city": 1,
-      "act_quickly": 0,
-      "hair_length": 0,
-      "species": 2,
+      "act_quickly": "No",
+      "hair_length": "Short",
+      "species": "Dog",
       "pet_name": "Cap aka Captain America",
       "color": null,
       "age": null,
-      "special_needs": 0,
+      "special_needs": "No",
       "primary_breed": "Boxer/American Staffordshire Terrier",
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/a/3/a/716201068.jpg",
-      "images": [
-        "https://pet-uploads.adoptapet.com/a/3/a/716201068.jpg",
-        "https://pet-uploads.adoptapet.com/3/7/2/716201074.jpg",
-        "https://pet-uploads.adoptapet.com/d/6/b/716201081.jpg",
-        "https://pet-uploads.adoptapet.com/1/6/1/716201091.jpg"
-      ],
       "id": 5
     },
     {
-      "sex": 1,
-      "purebred": 0,
-      "pet_age": 4,
-      "size": 2,
+      "sex": "Male",
+      "purebred": "Yes",
+      "pet_age": "Senior",
+      "size": "Medium",
       "country": 1,
       "city": 1,
-      "act_quickly": 1,
-      "hair_length": 1,
-      "species": 1,
+      "act_quickly": "Yes",
+      "hair_length": "Long",
+      "species": "Cat",
       "pet_name": "Billy Ocean",
       "color": null,
       "age": null,
-      "special_needs": 1,
+      "special_needs": "Yes",
       "primary_breed": "Maine Coon",
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/a/0/e/1071731552.jpg",
-      "images": [
-        "https://pet-uploads.adoptapet.com/a/0/e/1071731552.jpg",
-        "https://pet-uploads.adoptapet.com/c/b/a/1071731707.jpg",
-        "https://pet-uploads.adoptapet.com/b/f/3/1071731866.jpg"
-      ],
       "id": 6
     },
     {
-      "sex": 1,
-      "purebred": 0,
-      "pet_age": 3,
-      "size": 1,
+      "sex": "Male",
+      "purebred": "No",
+      "pet_age": "Adult",
+      "size": "Small",
       "country": 1,
       "city": 4,
-      "act_quickly": 0,
-      "hair_length": 0,
-      "species": 1,
+      "act_quickly": "No",
+      "hair_length": "Short",
+      "species": "Cat",
       "pet_name": "Silverwing",
       "color": null,
       "age": null,
-      "special_needs": 0,
+      "special_needs": "No",
       "primary_breed": "Domestic Shorthair",
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/7/1/f/1098946927.jpg",
-      "images": [
-        "https://pet-uploads.adoptapet.com/7/1/f/1098946927.jpg",
-        "https://pet-uploads.adoptapet.com/4/c/8/1102477266.jpg",
-        "https://pet-uploads.adoptapet.com/d/d/4/1102477511.jpg",
-        "https://pet-uploads.adoptapet.com/7/b/2/1101597128.jpg"
-      ],
       "id": 7
     },
     {
-      "sex": 2,
-      "purebred": 0,
-      "pet_age": 2,
-      "size": 1,
+      "sex": "Female",
+      "purebred": "No",
+      "pet_age": "Young",
+      "size": "Small",
       "country": 2,
       "city": 2,
-      "act_quickly": 0,
-      "hair_length": 0,
-      "species": 1,
+      "act_quickly": "No",
+      "hair_length": "Short",
+      "species": "Cat",
       "pet_name": "Nebraska",
       "color": null,
       "age": null,
-      "special_needs": 0,
+      "special_needs": "No",
       "primary_breed": "Domestic Shorthair",
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/7/5/d/1105950244.jpg",
-      "images": [
-        "https://pet-uploads.adoptapet.com/1/f/1/1098947018.jpg",
-        "https://pet-uploads.adoptapet.com/7/7/a/1102477376.jpg",
-        "https://pet-uploads.adoptapet.com/e/2/9/1102477633.jpg",
-        "https://pet-uploads.adoptapet.com/a/a/2/1102477740.jpg"
-      ],
       "id": 8
     },
     {
-      "sex": 2,
-      "purebred": 0,
-      "pet_age": 4,
-      "size": 1,
+      "sex": "Female",
+      "purebred": "No",
+      "pet_age": "Senior",
+      "size": "Small",
       "country": 2,
       "city": 2,
-      "act_quickly": 0,
-      "hair_length": 0,
-      "species": 1,
+      "act_quickly": "No",
+      "hair_length": "Short",
+      "species": "Cat",
       "pet_name": "Alexandra",
       "color": null,
       "age": null,
-      "special_needs": 0,
+      "special_needs": "No",
       "primary_breed": "Domestic Shorthair",
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/c/2/f/1100169298.jpg",
-      "images": [
-        "https://pet-uploads.adoptapet.com/c/2/f/1100169298.jpg",
-        "https://pet-uploads.adoptapet.com/3/9/a/1102817158.jpg",
-        "https://pet-uploads.adoptapet.com/e/9/f/1101936464.jpg",
-        "https://pet-uploads.adoptapet.com/4/0/0/1101936653.jpg"
-      ],
       "id": 9
     },
     {
-      "sex": 2,
-      "purebred": 0,
-      "pet_age": 3,
-      "size": 1,
+      "sex": "Female",
+      "purebred": "No",
+      "pet_age": "Adult",
+      "size": "Small",
       "country": 1,
       "city": 1,
-      "act_quickly": 0,
-      "hair_length": 0,
-      "species": 1,
+      "act_quickly": "No",
+      "hair_length": "Short",
+      "species": "Cat",
       "pet_name": "Dulce",
       "color": null,
       "age": null,
-      "special_needs": 0,
+      "special_needs": "No",
       "primary_breed": "Domestic Shorthair",
       "last_modified": "2024-03-08T07:27:07",
-      "thumbnail": "https://pet-uploads.adoptapet.com/e/4/5/1092118523.jpg",
-      "images": [
-        "https://pet-uploads.adoptapet.com/e/4/5/1092118523.jpg",
-        "https://pet-uploads.adoptapet.com/5/d/e/1094773926.jpg",
-        "https://pet-uploads.adoptapet.com/0/7/7/1094774024.jpg",
-        "https://pet-uploads.adoptapet.com/2/c/6/1094774300.jpg"
-      ],
+      "thumbnail": "https://pet-uploads.adoptapet.com/5/d/e/1094773926.jpg",
       "id": 10
     },
     {
-      "sex": 2,
-      "purebred": 0,
-      "pet_age": 2,
-      "size": 1,
+      "sex": "Female & Male",
+      "purebred": "No",
+      "pet_age": "Young",
+      "size": "Small",
       "country": 1,
       "city": 2,
-      "act_quickly": 0,
-      "hair_length": 0,
-      "species": 3,
-      "pet_name": "Irene&George",
+      "act_quickly": "No",
+      "hair_length": "Short",
+      "species": "Bird",
+      "pet_name": "Irene & George",
       "color": null,
       "age": null,
-      "special_needs": 0,
+      "special_needs": "No",
       "primary_breed": "Duck",
       "last_modified": "2024-03-08T07:27:07",
-      "thumbnail": "https://pet-uploads.adoptapet.com/3/8/9/605424364.jpg",
-      "images": [
-        "https://pet-uploads.adoptapet.com/3/8/9/605424364.jpg",
-        "https://pet-uploads.adoptapet.com/4/2/6/605424244.jpg"
-      ],
+      "thumbnail": "https://pet-uploads.adoptapet.com/4/2/6/605424244.jpg",
       "id": 11
     },
     {
-      "sex": 1,
-      "purebred": 0,
-      "pet_age": 3,
-      "size": 1,
+      "sex": "Male",
+      "purebred": "No",
+      "pet_age": "Adult",
+      "size": "Small",
       "country": 1,
       "city": 3,
-      "act_quickly": 0,
-      "hair_length": 0,
-      "species": 3,
+      "act_quickly": "No",
+      "hair_length": "Short",
+      "species": "Bird",
       "pet_name": "Midge",
       "color": null,
       "age": null,
-      "special_needs": 0,
+      "special_needs": "No",
       "primary_breed": "Pigeon",
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/1/c/8/1107999857.jpg",
-      "images": [
-        "https://pet-uploads.adoptapet.com/1/c/8/1107999857.jpg"
-      ],
       "id": 12
-    }
-  ],
-  "species": [
-    {
-      "id": 1,
-      "name": "cat"
-    },
-    {
-      "id": 2,
-      "name": "dog"
-    },
-    {
-      "id": 3,
-      "name": "Bird"
-    }
-  ],
-  "pet_age": [
-    {
-      "id": 1,
-      "name": "Puppy"
-    },
-    {
-      "id": 2,
-      "name": "Young"
-    },
-    {
-      "id": 3,
-      "name": "Adult"
-    },
-    {
-      "id": 4,
-      "name": "Senior"
-    }
-  ],
-  "sex": [
-    {
-      "id": 1,
-      "name": "Male"
-    },
-    {
-      "id": 2,
-      "name": "Female"
-    }
-  ],
-  "size": [
-    {
-      "id": 1,
-      "name": "Small"
-    },
-    {
-      "id": 2,
-      "name": "Medium"
-    },
-    {
-      "id": 3,
-      "name": "Large"
     }
   ],
   "country": [
@@ -399,5 +281,4 @@
       "name": "Bordeaux"
     }
   ]
-
 }
