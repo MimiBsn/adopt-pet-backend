@@ -1,25 +1,6 @@
 {
   "pets": [
     {
-      "id": 1,
-      "sex": "Male",
-      "purebred": "No",
-      "pet_age": "Adult",
-      "size": "Small",
-      "country": 1,
-      "city": 1,
-      "act_quickly": "No",
-      "hair_length": "Short",
-      "species": "Dog",
-      "pet_name": "Mugsy",
-      "color": null,
-      "age": 5,
-      "special_needs": "No",
-      "primary_breed": "French Bulldog",
-      "last_modified": "2019-04-08T07:27:07",
-      "thumbnail": "https://pet-uploads.adoptapet.com/0/9/2/627425674.jpg"
-    },
-    {
       "sex": "Female",
       "purebred": "No",
       "pet_age": "Puppy",
@@ -130,7 +111,7 @@
       "special_needs": "No",
       "primary_breed": "Domestic Shorthair",
       "last_modified": "2024-03-08T07:27:07",
-      "thumbnail": "https://pet-uploads.adoptapet.com/7/1/f/1098946927.jpg",
+      "thumbnail": "https://www.spa-lyon.org/wp-content/uploads/2024/02/sophie-dp17817-2ok.jpg",
       "id": 7
     },
     {
@@ -149,7 +130,7 @@
       "special_needs": "No",
       "primary_breed": "Domestic Shorthair",
       "last_modified": "2024-03-08T07:27:07",
-      "thumbnail": "https://pet-uploads.adoptapet.com/7/5/d/1105950244.jpg",
+      "thumbnail": "https://www.spa-lyon.org/wp-content/uploads/2023/12/gru-dp17770-1.jpg",
       "id": 8
     },
     {
@@ -162,13 +143,13 @@
       "act_quickly": "No",
       "hair_length": "Short",
       "species": "Cat",
-      "pet_name": "Alexandra",
+      "pet_name": "Nova",
       "color": null,
       "age": null,
       "special_needs": "No",
       "primary_breed": "Domestic Shorthair",
       "last_modified": "2024-03-08T07:27:07",
-      "thumbnail": "https://pet-uploads.adoptapet.com/c/2/f/1100169298.jpg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1-UMejg4__GsSqVPwPA-2r_0Ipdo5pbAJ8w&usqp=CAU",
       "id": 9
     },
     {
@@ -191,25 +172,6 @@
       "id": 10
     },
     {
-      "sex": "Female & Male",
-      "purebred": "No",
-      "pet_age": "Young",
-      "size": "Small",
-      "country": 1,
-      "city": 2,
-      "act_quickly": "No",
-      "hair_length": "Short",
-      "species": "Bird",
-      "pet_name": "Irene & George",
-      "color": null,
-      "age": null,
-      "special_needs": "No",
-      "primary_breed": "Duck",
-      "last_modified": "2024-03-08T07:27:07",
-      "thumbnail": "https://pet-uploads.adoptapet.com/4/2/6/605424244.jpg",
-      "id": 11
-    },
-    {
       "sex": "Male",
       "purebred": "No",
       "pet_age": "Adult",
@@ -227,6 +189,61 @@
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/1/c/8/1107999857.jpg",
       "id": 12
+    },
+    {
+      "sex": "Female",
+      "purebred": "No",
+      "pet_age": "Young",
+      "size": "Small",
+      "country": 1,
+      "city": 4,
+      "act_quickly": "No",
+      "hair_length": "Long",
+      "species": "Cat",
+      "pet_name": "New pet",
+      "color": "calico",
+      "age": "1",
+      "special_needs": "none",
+      "primary_breed": "breed",
+      "thumbnail": "http://res.cloudinary.com/doceqzmuk/image/upload/v1710750677/ljwvpn72ikm0nhsgx7iu.png",
+      "id": 13
+    },
+    {
+      "id": 1,
+      "sex": "Male",
+      "purebred": "No",
+      "pet_age": "Adult",
+      "size": "Small",
+      "country": 1,
+      "city": 1,
+      "act_quickly": "No",
+      "hair_length": "Short",
+      "species": "Dog",
+      "pet_name": "Mugsy",
+      "color": null,
+      "age": 5,
+      "special_needs": "No",
+      "primary_breed": "French Bulldog",
+      "last_modified": "2019-04-08T07:27:07",
+      "thumbnail": "https://pet-uploads.adoptapet.com/0/9/2/627425674.jpg"
+    },
+    {
+      "sex": "Male",
+      "purebred": "Yes",
+      "pet_age": "Young",
+      "size": "Large",
+      "country": 2,
+      "city": "6",
+      "act_quickly": "No",
+      "hair_length": "Short",
+      "species": "Dog",
+      "pet_name": "Hermes",
+      "color": "black & brown",
+      "age": "1",
+      "special_needs": "none",
+      "primary_breed": "Belgium shepherd",
+      "thumbnail": "http://res.cloudinary.com/doceqzmuk/image/upload/v1710755172/mhlfp8esefir5ybjwmui.jpg",
+      "id": 14
     }
   ],
   "country": [
