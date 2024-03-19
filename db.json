@@ -11,13 +11,15 @@
       "hair_length": "Short",
       "species": "Dog",
       "pet_name": "Chip",
-      "color": null,
-      "age": null,
+      "color": "Beige & black dotted",
+      "age": "6",
       "special_needs": "No",
       "primary_breed": "Pit Bull Terrier Mix",
       "last_modified": "2019-04-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/1/a/f/1108459654.jpg",
-      "id": 2
+      "id": 2,
+      "story": "\nMeet Chip, a petite bundle of joy brimming with playful energy. Rescued from uncertain beginnings, Chip's youthful spirit radiates warmth and innocence. With floppy ears and a wagging tail, she explores the world with boundless curiosity, her nose twitching with excitement at every new scent. Despite her small size, Chip's bravery knows no bounds, fearlessly approaching each new adventure with enthusiasm. Named for her endearing habit of chasing after falling leaves, Chip's presence brings light and laughter to those around her. With a heart as big as her playful antics, she eagerly awaits a loving family to share her adventures and cuddles with.",
+      "yearMonthAge": "Month"
     },
     {
       "sex": "Female",
@@ -30,13 +32,15 @@
       "hair_length": "Short",
       "species": "Dog",
       "pet_name": "Zha Zha",
-      "color": null,
-      "age": null,
+      "color": "Grey & white tuxedo",
+      "age": "6",
       "special_needs": "No",
       "primary_breed": "American Staffordshire Terrier",
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/8/6/7/738392374.jpg",
-      "id": 3
+      "id": 3,
+      "story": "Meet Zha Zha, a regal lady with a story to tell. Rescued from a life of neglect, her dignified demeanor belies a gentle soul yearning for love. With wise eyes that have witnessed both hardship and kindness, Zha Zha carries herself with grace and resilience. Her fur, once unkempt, now gleams with the care of those who have offered her solace. Despite her past, Zha Zha's heart remains open, her loyalty unwavering. Named after a legendary star, she embodies elegance and strength. With each graceful step, Zha Zha silently beckons for a forever home where she can bask in the warmth of companionship once more.",
+      "yearMonthAge": "Year"
     },
     {
       "sex": "Male",
@@ -49,13 +53,15 @@
       "hair_length": "Long",
       "species": "Dog",
       "pet_name": "Icarus",
-      "color": null,
-      "age": null,
+      "color": "Black & yellow",
+      "age": "1",
       "special_needs": "No",
       "primary_breed": "German Shepherd",
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/3/6/2/907033725.jpg",
-      "id": 4
+      "id": 4,
+      "story": "Meet Icarus, a spirited young pup destined to soar to new heights. Saved from a life of uncertainty, his boundless energy and playful antics light up every room. With a coat as golden as the sun and eyes full of wonder, Icarus embodies the adventurous spirit of his namesake. Despite his youth, he's already faced challenges with courage, his resilience shining through. Whether chasing after a ball or exploring the great outdoors, Icarus embraces each moment with enthusiasm and joy. Named after the mythological figure who dared to fly, he's a reminder that even in the face of adversity, dreams can take flight.",
+      "yearMonthAge": "Year"
     },
     {
       "sex": "Male",
@@ -68,13 +74,15 @@
       "hair_length": "Short",
       "species": "Dog",
       "pet_name": "Cap aka Captain America",
-      "color": null,
-      "age": null,
+      "color": "Yellow & black strippes",
+      "age": "7",
       "special_needs": "No",
       "primary_breed": "Boxer/American Staffordshire Terrier",
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/a/3/a/716201068.jpg",
-      "id": 5
+      "id": 5,
+      "story": "Introducing Captain America, a steadfast companion with a heart of gold. Rescued from the streets, his noble stature and unwavering loyalty make him a true hero among dogs. With a sleek coat and piercing gaze, Captain America exudes strength and courage. Despite his past trials, he remains ever vigilant, ready to protect and serve those he holds dear. Named after the iconic superhero, he embodies the values of honor, integrity, and selflessness. Whether by your side on a leisurely stroll or standing guard at home, Captain America stands as a beacon of hope and companionship in a world in need of heroes.",
+      "yearMonthAge": "Year"
     },
     {
       "sex": "Male",
@@ -93,7 +101,9 @@
       "primary_breed": "Maine Coon",
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/a/0/e/1071731552.jpg",
-      "id": 6
+      "id": 6,
+      "story": "Meet Billy Ocean, a senior Maine Coon with a heart as vast as the sea. Rescued from solitude, his majestic presence and gentle demeanor embody the wisdom of his years. With a luxurious coat reminiscent of ocean waves and eyes that hold a lifetime of stories, Billy exudes quiet strength and grace. Despite his age, he retains a playful spirit, enjoying moments of quiet contemplation and the soft touch of a caring hand. Named after the legendary singer, Billy Ocean's presence brings a sense of calm and tranquility, reminding us that even in the twilight years, there is beauty and serenity to be found.",
+      "yearMonthAge": "Year"
     },
     {
       "sex": "Male",
@@ -112,7 +122,9 @@
       "primary_breed": "Domestic Shorthair",
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "https://www.spa-lyon.org/wp-content/uploads/2024/02/sophie-dp17817-2ok.jpg",
-      "id": 7
+      "id": 7,
+      "story": "Meet Silverwing, a suave and sophisticated feline with an air of mystery. Rescued from the shadows, his sleek silver fur shimmers like moonlight, accentuating his enigmatic charm. With piercing green eyes that seem to hold secrets untold, Silverwing prowls with the grace and poise of a true gentleman. Despite his solitary nature, he craves companionship, yearning for a quiet corner to call his own. Named after the whispering night, Silverwing embodies the allure of the unknown, inviting you to unravel the mysteries of his past and bask in the warmth of his silent companionship.",
+      "yearMonthAge": "Year"
     },
     {
       "sex": "Female",
@@ -125,13 +137,15 @@
       "hair_length": "Short",
       "species": "Cat",
       "pet_name": "Nebraska",
-      "color": null,
-      "age": null,
+      "color": "White",
+      "age": "3",
       "special_needs": "No",
       "primary_breed": "Domestic Shorthair",
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "https://www.spa-lyon.org/wp-content/uploads/2023/12/gru-dp17770-1.jpg",
-      "id": 8
+      "id": 8,
+      "story": "Introducing Nebraska, a young white feline with a spirit as bright as her coat. Found wandering the streets, her innocent gaze and playful demeanor capture hearts wherever she goes. With fur as pure as freshly fallen snow and eyes that gleam with curiosity, Nebraska exudes a sense of wonder and adventure. Despite her humble beginnings, she embraces each new day with boundless energy, ready to explore the world around her. Named after the vast plains of her homeland, Nebraska embodies freedom and possibility, a reminder that even in the simplest moments, there is beauty to be found.",
+      "yearMonthAge": "Year"
     },
     {
       "sex": "Female",
@@ -150,7 +164,9 @@
       "primary_breed": "Maine-Coon",
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "http://res.cloudinary.com/doceqzmuk/image/upload/v1710760775/snqfsyejyd8au8qjfsdt.jpg",
-      "id": 9
+      "id": 9,
+      "story": "Meet Nova, a young Maine Coon whose presence illuminates the darkest of days. With a mane as majestic as the night sky and eyes that sparkle like distant stars, Nova exudes an otherworldly charm. Rescued from uncertainty, her playful antics and gentle purrs brighten the lives of those around her. With each graceful stride, she navigates the world with a sense of wonder and curiosity, her fluffy tail trailing behind like a comet's tail. Named after the celestial phenomena, Nova symbolizes new beginnings and endless possibilities, a shining beacon of hope in a universe of infinite wonders.",
+      "yearMonthAge": "Year"
     },
     {
       "sex": "Female",
@@ -163,13 +179,15 @@
       "hair_length": "Short",
       "species": "Cat",
       "pet_name": "Dulce",
-      "color": null,
-      "age": null,
+      "color": "Tortoise",
+      "age": "2",
       "special_needs": "No",
       "primary_breed": "Domestic Shorthair",
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/5/d/e/1094773926.jpg",
-      "id": 10
+      "id": 10,
+      "story": "Meet Dulce, a young feline beauty whose maternal instincts shine as bright as her golden fur. Amidst the chaos of the streets, she found sanctuary and safety, cradling her newborn with unwavering love and devotion. With gentle eyes that mirror the innocence of her tiny offspring, Dulce embodies the essence of motherhood. Despite the challenges of raising a newborn, she embraces each moment with grace and tenderness, her nurturing presence a source of comfort and warmth. Named after the sweetness of life, Dulce's journey is a testament to the resilience of the maternal bond, a reminder that love knows no bounds, even in the face of adversity.",
+      "yearMonthAge": "Year"
     },
     {
       "sex": "Male",
@@ -182,13 +200,15 @@
       "hair_length": "Short",
       "species": "Bird",
       "pet_name": "Midge",
-      "color": null,
-      "age": null,
+      "color": "White",
+      "age": "1",
       "special_needs": "No",
       "primary_breed": "Pigeon",
       "last_modified": "2024-03-08T07:27:07",
       "thumbnail": "https://pet-uploads.adoptapet.com/1/c/8/1107999857.jpg",
-      "id": 12
+      "id": 12,
+      "story": "\nMeet Midge, an adult male pigeon whose wings carry the purity of the clouds. With feathers as white as freshly fallen snow and eyes that gleam with intelligence, Midge exudes a serene elegance amidst the urban chaos. Despite his stark appearance, he navigates the bustling streets with grace and poise, his gentle coo a soothing melody amidst the cacophony of city sounds. Named after the tiny insects that dance in the twilight, Midge embodies resilience and adaptability, a feathered wanderer embracing the ebb and flow of life with quiet determination and grace.",
+      "yearMonthAge": "Year"
     },
     {
       "id": 1,
@@ -221,11 +241,13 @@
       "species": "Dog",
       "pet_name": "Hermes",
       "color": "black & brown",
-      "age": "1",
+      "age": "9",
       "special_needs": "none",
       "primary_breed": "Belgium shepherd",
       "thumbnail": "http://res.cloudinary.com/doceqzmuk/image/upload/v1710755172/mhlfp8esefir5ybjwmui.jpg",
-      "id": 14
+      "id": 14,
+      "story": "Introducing Hermes, a spirited companion in search of his forever home. With a majestic stride and eyes full of tenderness, Hermes exudes charm and vitality. Rescued from the streets, his adventurous spirit remains untamed, a testament to his resilience. Despite past struggles, Hermes embodies loyalty and courage, his playful nature shining through each wag of his tail. With a heart as boundless as the open sky, he yearns for a family to embark on new adventures. Named after the messenger of the gods, Hermes carries a message of hope: in him, you'll find a steadfast friend, ready to journey by your side through life's highs and lows.",
+      "yearMonthAge": "Month"
     },
     {
       "sex": "Female",
@@ -243,7 +265,9 @@
       "special_needs": "FIV +",
       "primary_breed": "European",
       "thumbnail": "http://res.cloudinary.com/doceqzmuk/image/upload/v1710756776/tanvblwmvbii7mgjsi2g.jpg",
-      "id": 16
+      "id": 16,
+      "story": "Meet Nevada, a remarkable adult female cat whose resilience knows no bounds. Born with special needs, Nevada navigates life's challenges with unwavering determination and grace. Her fur, a tapestry of silver and white, shimmers like the moonlit desert sands, while her eyes, a reflection of the vast Nevada skies, hold a wisdom beyond her years. Despite facing obstacles that may seem insurmountable, Nevada's spirit remains unbroken, her gentle purrs a testament to her inner strength. Named after the rugged beauty of the Nevada landscape, she embodies the resilience and beauty found in the face of adversity, inspiring all who cross her path.\nNevada also have a croocked tail, which is a sign of luck in the Japanese culture.",
+      "yearMonthAge": "Year"
     },
     {
       "sex": "Male",
@@ -261,7 +285,9 @@
       "special_needs": "none",
       "primary_breed": "Mixed breed",
       "thumbnail": "http://res.cloudinary.com/doceqzmuk/image/upload/v1710781679/vnuqstjwdcwnfxnntxly.jpg",
-      "id": 17
+      "id": 17,
+      "story": "Meet Rio, a gentle soul longing for a loving home. Rescued from neglect, Rio's eyes radiate gratitude, despite past hardships. His fur, once matted and unkempt, now shines with newfound care. An affectionate nature lies beneath his cautious demeanor, craving companionship and warmth. Rio's journey, marked by resilience, embodies hope and second chances. He eagerly awaits a family to share his boundless love, his wagging tail a testament to the joy he yearns to give. With each hopeful glance, Rio silently whispers his plea: \"Take me home, and I'll fill your life with unconditional love.\"",
+      "yearMonthAge": "Year"
     },
     {
       "sex": "Female",
@@ -279,7 +305,9 @@
       "special_needs": "none",
       "primary_breed": "Parrot",
       "thumbnail": "http://res.cloudinary.com/doceqzmuk/image/upload/v1710782073/syjspatiduuqne3lpnon.jpg",
-      "id": 18
+      "id": 18,
+      "story": "Meet Edith, a vibrant 2-year-old parrot whose colorful plumage mirrors her lively personality. Edith captivates all who encounter her with her playful antics and melodious chirps. Born with a keen intellect and a mischievous streak, she navigates her world with boundless curiosity and a zest for adventure. Despite her youthful exuberance, Edith possesses a wisdom beyond her years, her soulful eyes reflecting the depth of her spirit. Named after the pioneering aviator, Edith embodies the spirit of exploration and freedom, inspiring those around her to spread their wings and embrace the wonders of life.",
+      "yearMonthAge": "Year"
     },
     {
       "sex": "Male",
@@ -297,7 +325,9 @@
       "special_needs": "none",
       "primary_breed": "Bird",
       "thumbnail": "http://res.cloudinary.com/doceqzmuk/image/upload/v1710782181/ulf6zexbktkaep4rjhui.jpg",
-      "id": 19
+      "id": 19,
+      "story": "Meet Laca, a petite yellow bird with a heart as bright as the morning sun. With feathers as golden as the fields of wheat, Laca flits through life with boundless energy and enthusiasm. Despite her small size, she possesses a spirited personality and a chirpy voice that fills the air with joyous melodies. Born with wings that shimmer like the petals of a daffodil, Laca navigates the world with grace and agility, her tiny feet leaving imprints of hope wherever she goes. Named after the vibrant color of her plumage, Laca embodies the warmth and vitality of the sun, spreading light and happiness to all who cross her path.",
+      "yearMonthAge": "Year"
     },
     {
       "sex": "Female",
@@ -315,7 +345,9 @@
       "special_needs": "No",
       "primary_breed": "Mixed breed",
       "thumbnail": "http://res.cloudinary.com/doceqzmuk/image/upload/v1710782242/yuugcmiuh3rwu1ntekiq.jpg",
-      "id": 20
+      "id": 20,
+      "story": "Meet Luna, a brown Pit Bull mix whose appearance belies her angelic nature. With a coat resembling the soft earth and eyes as warm as the sunrise, Luna exudes a gentle and serene presence. Despite her muscular frame, she moves with grace and elegance, her every step a testament to her inner beauty. Born with a heart of gold, Luna's kindness knows no bounds, and her affectionate nature touches the hearts of all who meet her. Named after the moon, which casts a soothing light over the darkness, Luna is a guardian angel in disguise, spreading love and light wherever she goes, a true blessing to those fortunate enough to know her.",
+      "yearMonthAge": "Year"
     }
   ],
   "country": [
